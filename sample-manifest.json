@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d6d45b68-04d1-4a96-9937-31334c5b0bdd",
+  "id_short": 592102,
+  "published_at": "2026-04-13T19:44:12Z",
+  "repo_name": "tech-ready-restaurants-in-louisiana-us-sample-592102",
+  "sample_asset_name": "beamstation_592102_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/592102/beamstation_592102_restaurants-us-la_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "62ab9341b38717b00e4ea7b0832b6f847c71986706cee0488fcf59a840936148",
+  "sample_size_bytes": 20824,
+  "total_records": 19
+}
