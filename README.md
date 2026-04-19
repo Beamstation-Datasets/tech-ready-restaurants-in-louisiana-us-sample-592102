@@ -9,9 +9,9 @@
 | Dataset ID | `592102` |
 | Location | Louisiana |
 | Category | Restaurants |
-| Full dataset size | 19 records |
-| Free sample size | 1 records (5.26%) |
-| Last export | 2026-04-08T06:58:45.719140+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-15T10:25:30.906093+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-louisiana-us-sample-592102/releases/download/sample-latest/beamstation_592102_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
