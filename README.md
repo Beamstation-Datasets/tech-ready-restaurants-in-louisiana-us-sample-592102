@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Louisiana, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `592102` |
 | Location | Louisiana |
 | Category | Restaurants |
-| Full dataset size | 3 records |
-| Free sample size | 1 records (33.33%) |
-| Last export | 2026-04-22T17:53:14.832882+00:00 |
+| Full dataset size | 91 records |
+| Free sample size | 9 records (9.89%) |
+| Last export | 2026-04-29T17:36:53.996179+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-louisiana-us-sample-592102/releases/download/sample-latest/beamstation_592102_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
